@@ -9,7 +9,7 @@ You can try out the live demo of the Amazon clone website here: [Amazon Clone Li
 ## Screenshot 📸
 Here’s a screenshot of the **Amazon Clone Website**:
 
-![Amazon Clone Screenshot](https://github.com/your-username/amazon-clone-website/Images/project2.png)
+![Amazon Clone Screenshot](https://github.com/tajwone17/amazon-clone-website/Images/project2.png)
 
 ## Features ✨
 - **HTML & CSS Learning**: Focuses on structuring the website with HTML and applying styles with CSS.
